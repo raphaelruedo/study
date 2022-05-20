@@ -1,11 +1,4 @@
 # study
-O pedido que eu mais recebo de devs é: "me ajuda a montar uma lista de estudos". Segue abaixo uma lista de perguntas para ajudar quem tem essa dúvida a montar a sua própria lista de estudos:
-
-
-
--------------------
-
-
 
 - Sabe implementar estruturas de dados básicas na unha (ex: Hash Table, Heap, Árvore Binária, Lista Dinâmica, etc)?
 
